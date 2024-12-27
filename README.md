@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mmattiucci2024,
+- 👀 I’m interested in Quantum Computing, AI, Mathematics and Encryption.
+- 🌱 I’m currently learning many aspects of Quantum Computing and Encryption.
+- 📫 How to reach me: https://www.linkedin.com/in/marcomattiucci/
